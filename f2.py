@@ -1,3 +1,3 @@
-
-my new file
-
+a=input("Enter your name : ")
+for i in a:
+  print(a)
